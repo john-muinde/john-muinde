@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, flutter**
 
-- 👨‍💻 All of my projects are available at [www.kimworks.buzz](www.kimworks.buzz)
+<!-- - 👨‍💻 All of my projects are available at [www.kimworks.buzz](www.kimworks.buzz) -->
 
 - 💬 Ask me about **Node.js, Next.js, python**
 
