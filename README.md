@@ -117,7 +117,7 @@
             height="40" /> </a>
 </p>
 
-<p dir="auto"><a href="http://www.github.com/john-muinde"><img src="https://camo.githubusercontent.com/cfede3255c6cecf779b47139fdb4c440f557c02fd9bc6636dbb9fa55b9aaedb5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d456c696542616d756e6f62612673686f775f69636f6e733d7472756526686964653d26636f756e745f707269766174653d74727565267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d747275652673686f775f69636f6e733d74727565" alt="John Muinde's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=john-muinde&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="http://www.github.com/john-muinde"><img src="https://github-readme-stats.vercel.app/api?username=john-muinde&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;"></a></p>
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=john-muinde&show_icons=true&locale=en"
