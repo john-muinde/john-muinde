@@ -117,8 +117,8 @@
             height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-muinde&show_icons=true&locale=en&layout=compact" alt="john-muinde" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-muinde)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![John Muinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muinde)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-muinde&" alt="john-muinde" /></p>
