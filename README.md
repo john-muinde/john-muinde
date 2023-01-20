@@ -122,4 +122,4 @@
 <p dir="auto"><a href="https://github.com/john-muinde"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-muinde&amp;layout=compact" style="max-width: 100%;" alt="Top Langs"></a></p>
 <p dir="auto"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=john-muinde"/></a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![John Muinde's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-muinde&show_icons=true&theme=radical)
