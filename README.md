@@ -117,7 +117,7 @@
             height="40" /> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-muinde&show_icons=true&locale=en&layout=compact" alt="john-muinde" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-muinde&show_icons=true&layout=compact" alt="john-muinde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=john-muinde&show_icons=true&locale=en" alt="john-muinde" /></p>
 
