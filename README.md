@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Muinde</h1>
 <h3 align="center">A passionate full stack and mobile apps developer from Kenya</h3>
 
-<p align="left"> <img
+<!-- <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=john-muinde&label=Profile%20views&color=0e75b6&style=flat"
-        alt="john-muinde" /> </p>
+        alt="john-muinde" /> </p> -->
 
 - 🌱 I’m currently learning **Rust, flutter**
 
