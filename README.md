@@ -23,7 +23,7 @@
             alt="jhnmuinde" height="30" width="40" /></a>-->
      <a href="https://www.codewars.com/users/john-muinde" target="_blank"><img align="center"
             src="https://cdn.prod.website-files.com/62e3ee10882dc50bcae8d07a/632615af0bde3512ecfb2718_codewars-logo.svg"
-            alt="jhnmuinde" height="30" width="40" /></a>
+            alt="jhnmuinde" height="40" width="50" /></a>
 <!--     <a href="https://www.leetcode.com/jhnmuinde" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="jhnmuinde" height="30" width="40" /></a>
