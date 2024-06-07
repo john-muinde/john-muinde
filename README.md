@@ -9,7 +9,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [www.kimworks.buzz](www.kimworks.buzz) -->
 
-- 💬 Ask me about **Node.js, Next.js, python**
+- 💬 Reach out for **Node.js, PHP, Flutter + Dart**
 
 - 📫 How to reach me **jhnmuinde@gmail.com**
 
