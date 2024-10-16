@@ -5,7 +5,7 @@
         src="https://komarev.com/ghpvc/?username=john-muinde&label=Profile%20views&color=0e75b6&style=flat"
         alt="john-muinde" /> </p> -->
 
-- 🌱 I’m currently learning **Laravel, Vuejs**
+- 🌱 I’m currently learning **Laravel + Reactjs**
 
 <!-- - 👨‍💻 All of my projects are available at [www.kimworks.buzz](www.kimworks.buzz) -->
 
