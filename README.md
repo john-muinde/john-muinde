@@ -5,11 +5,11 @@
         src="https://komarev.com/ghpvc/?username=john-muinde&label=Profile%20views&color=0e75b6&style=flat"
         alt="john-muinde" /> </p> -->
 
-- 🌱 I’m currently learning **Laravel + Reactjs**
+- 🌱 I’m currently learning **Nuxtjs**
 
 <!-- - 👨‍💻 All of my projects are available at [www.kimworks.buzz](www.kimworks.buzz) -->
 
-- 💬 Reach out for **Node.js, PHP, Flutter + Dart**
+- 💬 Reach out for **Node.js,Laravel, Vue.js, Nuxt.js, PHP, Flutter + Dart**
 
 - 📫 How to reach me **jhnmuinde@gmail.com**
 
